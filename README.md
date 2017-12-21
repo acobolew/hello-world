@@ -1,1 +1,1 @@
-# hello-world This was edited to add a readme
+# hello-world I'm writing a bit about myself, describing how I forgot to create a readme, then created a readme in branch master, then created a branch to edit the readme file. Also a bit about how I don't know what the .md extension means yet.
